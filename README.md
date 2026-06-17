@@ -1,12 +1,18 @@
 ## About Me
 
-👋 Hi, I’m Aditya Jaiswal I am a final-year MCA student with a strong focus on Data Science, Machine Learning, and Generative AI. I have hands-on experience building end-to-end AI/ML applications, from data preprocessing and model development to deployment and visualization.
+👋 Hi, I'm **Aditya Jaiswal**.
 
-My work spans areas such as deep learning, computer vision, predictive modeling, and data analytics, with practical exposure to tools like Python, TensorFlow, Keras, Pandas, NumPy, Flask, and Power BI. I have published academic research and completed multiple internships where I applied AI to real-world problems.
+I am currently working as an **RPA Developer**, building intelligent automation solutions that streamline business processes and improve operational efficiency. Alongside my professional experience in automation, I continue to pursue my passion for **Data Science, Machine Learning, and Generative AI**, focusing on developing practical AI-driven solutions to real-world challenges.
 
-I am particularly interested in applied machine learning, AI-driven products, and scalable data solutions, and I actively use GitHub to maintain clean, well-documented, and reproducible projects.
+I have hands-on experience in building end-to-end AI/ML applications, covering data preprocessing, model development, deployment, and visualization. My work spans areas such as deep learning, computer vision, predictive modeling, and data analytics, with practical exposure to tools and technologies including **Python, TensorFlow, Keras, Pandas, NumPy, Flask, SQL, and Power BI**.
 
-🔹 Key Interests: Machine Learning, Deep Learning, Generative AI, Data Analytics 🔹 Skills: Python | ML/DL | TensorFlow | Data Science | Flask | SQL | Power BI 🔹 Open to: Internships, research collaboration, and full-time roles in AI & Data Science
+I have contributed to academic research and completed internships where I applied AI techniques to solve real-world problems. I actively use GitHub to maintain clean, well-documented, and reproducible projects while continuously exploring emerging trends in artificial intelligence and intelligent automation.
+
+🔹 **Current Role:** RPA Developer
+🔹 **Key Interests:** Machine Learning, Deep Learning, Generative AI, Data Analytics, Intelligent Automation
+🔹 **Skills:** Python | RPA | ML/DL | TensorFlow | Data Science | Flask | SQL | Power BI
+🔹 **Open to:** Research collaborations, AI & Data Science opportunities, and roles at the intersection of Automation and Artificial Intelligence
+
 
 ## My Skills
 
