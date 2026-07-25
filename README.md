@@ -8,10 +8,10 @@ I have hands-on experience in building end-to-end AI/ML applications, covering d
 
 I have contributed to academic research and completed internships where I applied AI techniques to solve real-world problems. I actively use GitHub to maintain clean, well-documented, and reproducible projects while continuously exploring emerging trends in artificial intelligence and intelligent automation.
 
-🔹 **Current Role:** RPA Developer
-🔹 **Key Interests:** Machine Learning, Deep Learning, Generative AI, Data Analytics, Intelligent Automation
-🔹 **Skills:** Python | RPA | ML/DL | TensorFlow | Data Science | Flask | SQL | Power BI
-🔹 **Open to:** Research collaborations, AI & Data Science opportunities, and roles at the intersection of Automation and Artificial Intelligence
+🔹 **Current Role:** - RPA Developer
+🔹 **Key Interests:** - Machine Learning, Deep Learning, Generative AI, Data Analytics, Intelligent Automation
+🔹 **Skills:** - Python | RPA | ML/DL | TensorFlow | Data Science | Flask | SQL | Power BI
+🔹 **Open to:** - Research collaborations, AI & Data Science opportunities, and roles at the intersection of Automation and Artificial Intelligence
 
 
 ## My Skills
