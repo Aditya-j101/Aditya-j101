@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Aditya Jaiswal**.
 
-I am currently working as an *Software Developer**, building intelligent automation solutions that streamline business processes and improve operational efficiency. Alongside my professional experience in automation, I continue to pursue my passion for **Data Science, Machine Learning, and Generative AI**, focusing on developing practical AI-driven solutions to real-world challenges.
+I am currently working as an **Software Developer**, building intelligent automation solutions that streamline business processes and improve operational efficiency. Alongside my professional experience in automation, I continue to pursue my passion for **Data Science, Machine Learning, and Generative AI**, focusing on developing practical AI-driven solutions to real-world challenges.
 
 I have hands-on experience in building end-to-end AI/ML applications, covering data preprocessing, model development, deployment, and visualization. My work spans areas such as deep learning, computer vision, predictive modeling, and data analytics, with practical exposure to tools and technologies including **Python, TensorFlow, Keras, Pandas, NumPy, Flask, SQL, and Power BI**.
 
